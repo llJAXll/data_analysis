@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 
-file_path=r"C:\Users\lJAXl\Desktop\2022Q4\yekuai136.csv"
-file_path2=r"C:\Users\lJAXl\Desktop\2022Q4\yekuai136.xlsx"
+file_path=r"C:\Users\lJAXl\Desktop\2022Q4\yekuai132.csv"
+file_path2=r"C:\Users\lJAXl\Desktop\2022Q4\yekuai132.xlsx"
 df = pd.read_csv(file_path, encoding = 'utf-8')
 # print(df)
 row = df.shape[0]
